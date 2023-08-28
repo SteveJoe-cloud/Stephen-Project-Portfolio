@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SteveJoe-cloud,a repository for Stephen Kamau's  projects
+👋 Hi, I’m @SteveJoe-cloud,a repository for Stephen Kamau's  projects
 -  Data Analyst | Excel Enthusiast | Tableau Magician | Power BI Pro | Oracle Analytics Explorer  -
 📫 How to reach me:
           📧 Email: stevejoew@gmail.com
