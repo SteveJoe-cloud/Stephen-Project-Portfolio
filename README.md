@@ -10,8 +10,7 @@ Passionate about transforming raw data into actionable insights, I am a dedicate
 
 Projects
 Microsoft Excel 
-📊 Sales Performance Dashboard - Created an interactive Excel dashboard to analyze sales trends, revenue, and customer demographics, enabling stakeholders to make informed business decisions.
-    Logistical Performance Dashboard - Created an interactive Excel dashboard to analyze fleet performance trends, revenue, and mileage demographics, enabling directors and stakeholders to make informed business decisions.
+📊 Logistical Performance Dashboard - Created an interactive Excel dashboard to analyze fleet performance trends, revenue, and mileage demographics, enabling directors and stakeholders to make informed business decisions.
 🔍 Data Cleaning Toolkit - Developed a comprehensive Excel toolkit to automate data cleaning processes, enhancing data accuracy and saving countless hours of manual work.
 
 Tableau Projects
