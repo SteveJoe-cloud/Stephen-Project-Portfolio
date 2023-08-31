@@ -1,5 +1,5 @@
-👋 Hi, I’m @SteveJoe-cloud,a repository for Stephen Kamau's  projects
--  Data Analyst | Excel Enthusiast | Tableau Magician | Power BI Pro | Oracle Analytics Explorer  -
+👋 Hi, I’m @SteveJoe-cloud,a repository for Stephen Kamau's  projects and Cerifications.
+-  Data Analyst | Excel Enthusiast | Tableau Magician | Power BI Pro | Oracle Analytics Explorer | Diplomat | Business Development Officer -
 📫 How to reach me:
           📧 Email: stevejoew@gmail.com
           🌐 LinkedIn: [linkedin.com/in/stevejoekamau]
