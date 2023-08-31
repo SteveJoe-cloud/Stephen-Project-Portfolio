@@ -2,7 +2,7 @@
 -  Data Analyst | Excel Enthusiast | Tableau Magician | Power BI Pro | Oracle Analytics Explorer | Diplomat | Business Development Officer -
 📫 How to reach me:
           📧 Email: stevejoew@gmail.com
-          🌐 LinkedIn: [linkedin.com/in/stevejoekamau]
+          🌐 LinkedIn: linkedin.com/in/stevejoekamau
           📱 Twitter: @joeklaet
 
 About Me
