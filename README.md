@@ -11,7 +11,7 @@ Hi there! This documentation provides a concise overview of my expertise and cap
 - Education
 - Interests
 
-## Logistical Performance Dashboard
+## Logistical Performance Dashboard 📊
 **Individual | Microsoft Excel**
 
 ### Project Description
@@ -28,9 +28,9 @@ In this project, I used Excel to create an interactive dashboard that displays k
 - ✅ Task 3 - Data Visualization and Storytelling
 
 ### Tools and Visualization
-⚙️ Tool: Excel
-💻 Visualization: Excel (Pivot tables)
-🗂️ Source Dataset: Employers Internal Company Dataset
+- ⚙️ Tool: Excel
+- 💻 Visualization: Excel (Pivot tables)
+- 🗂️ Source Dataset: Employers Internal Company Dataset
 
 [Click to view full documentation]
 
@@ -48,9 +48,9 @@ In this project, I used MySQL and Tableau to create a comprehensive dashboard th
 The data source for this project was a public dataset of COVID-19 cases in Kenya that was updated daily by the Ministry of Health. The dataset contained information about the date, location, gender, age, and status of each case.
 
 ### Tools and Visualization
-⚙️ Tools — Excel, MySQL
-💻 Visualization: Tablaeu 
-🗂️ Data Source: MoH-Kenya (Open-Source)
+- ⚙️ Tools — Excel, MySQL
+- 💻 Visualization: Tablaeu 
+- 🗂️ Data Source: MoH-Kenya (Open-Source)
 
 
 [Click to view full documentation]
@@ -73,15 +73,15 @@ The main objectives of this project were to:
 - ✅ Task 4 - Dashboard Presentation and Storytelling
 
 ### Tools and Visualization
-- Tool: PowerBI
-- Visualization: PowerBI (Charts, tables, maps, etc.)
-- Source Dataset: Retail Sales Data
+- ⚙️ Tool: PowerBI
+- 💻 Visualization: PowerBI (Charts, tables, maps, etc.)
+- 🗂️ Source Dataset: Retail Sales Data
 
 [Click to view full documentation]
 
-## Completed Course and Certification
-- Certificate in Advanced Python, StudySection (test ID: 650060, email ID: joeklaet@gmail.com)
-- Certificate in Excel, Data Analysis with PivotTables, Certstaffix
+## Completed Course and Certification 🗂️
+- [Certificate in Advanced Python, StudySection](https://www.studysection.com/verify-certificate-authenticity?url=verify-certificate-authenticity) (test ID: 650060, email ID: joeklaet@gmail.com)
+-	[Certificate in Excel, Data Analysis with PivotTables, Certstaffix](https://www.credly.com/org/certstaffix-training/badge/excel-data-analysis-with-pivottables)
 
 ## How to reach me
 - Email: stevejoew@gmail.com
@@ -97,6 +97,6 @@ When I'm not crunching numbers, I enjoy exploring new hiking trails, creating ga
 
 ## Let's Connect!
 
-I'm always eager to collaborate on exciting data analysis projects or engage in discussions about the latest trends in the analytics world. Feel free to reach out via email or connect with me on LinkedIn and Twitter.
+- I'm always eager to collaborate on exciting data analysis projects or engage in discussions about the latest trends in the analytics world. Feel free to reach out via email or connect with me on LinkedIn and Twitter.
 
-**"Turning data into insights, one project at a time."**
+-**"Turning data into insights, one project at a time."**
