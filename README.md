@@ -32,7 +32,7 @@ In this project, I used Excel to create an interactive dashboard that displays k
 - 💻 Visualization: Excel (Pivot tables)
 - 🗂️ Source Dataset: Employers Internal Company Dataset
 
-[Click to view full documentation]
+[Click to view full documentation](https://github.com/SteveJoe-cloud/PortfolioProjects/blob/main/Logistics%20Platform%20Visualization%201.jpg)
 
 ## Kenya Covid-19 Dashboard Project
 **Individual | Tableau Public, SSMS**
