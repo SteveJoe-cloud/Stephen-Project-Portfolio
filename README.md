@@ -54,6 +54,29 @@ The data source for this project was a public dataset of COVID-19 cases in Kenya
 
 
 [Click to view full documentation]
+Based on the attached image, I understand that you are requesting a project description for a house sales visualization project you did for Seattle on Tableau. Here is a sample format for your project description:
+
+# Project Description: House Sales Visualization
+
+In this project, I utilized Tableau to develop a comprehensive visualization of house sales in Seattle. The interactive dashboard provides insights into various aspects of the housing market, including daily average house sales prices, distribution of house prices, and the number of bedrooms and bathrooms per property. It also features a detailed map to visualize the geographical distribution of these properties and a heatmap representing views vs condition ratings.
+
+## Main Objectives:
+- **Demonstrate Proficiency:** Exhibit my skills in using Tableau for intricate data analysis and visualization tasks including importing, transforming, modeling, and visualizing complex datasets.
+- **Insights & Recommendations:** Apply advanced data analytics and visualization techniques to offer actionable insights for potential home buyers, real estate agents, and policy makers.
+- **Creative Communication:** Showcase my ability to design an intuitive and engaging dashboard that effectively communicates complex data narratives.
+
+## Tasks:
+✅ **Task 1 - Data Preparation:** Cleaned and prepared raw housing sales data for analysis ensuring accuracy and consistency.
+✅ **Task 2 - Data Modeling:** Developed models to analyze various metrics such as price trends, geographical distribution etc.
+✅ **Task 3 - Data Analysis & Visualization:** Utilized Tableau’s robust features to create interactive visualizations offering valuable insights.
+✅ **Task 4 - Dashboard Presentation & Storytelling:** Designed an interactive dashboard ensuring user-friendly experience & effective communication.
+
+## Tools & Visualization:
+⚙️ **Tool**: Tableau  
+💻 **Visualization**: Interactive Dashboard with filters, line charts, bar graphs, maps etc.  
+🗂️ **Source Dataset**: Seattle House Sales Data  
+
+[Click here]
 
 ## PowerBI Project
 **Individual | PowerBI**
