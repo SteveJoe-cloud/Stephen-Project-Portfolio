@@ -78,29 +78,30 @@ In this project, I utilized Tableau to develop a comprehensive visualization of 
 
 [Click here to view full documentation](https://github.com/SteveJoe-cloud/Housing-Project-Tableau/)
 
-## PowerBI Project
-**Individual | PowerBI**
+# Empowering Data Professionals with Actionable Insights
 
-### Project Description
-In this project, I used PowerBI to create a dashboard that analyzes the sales performance of a retail company. The dashboard displays various metrics, such as sales revenue, profit margin, average order value, and customer retention rate. The dashboard also allows the user to drill down and explore the data by different dimensions, such as product category, region, and customer segment.
+## Project Overview
+This project demonstrates the use of PowerBI in creating a captivating dashboard that visualizes the results of a survey for data professionals employability. The project covers the entire data analysis workflow, from data cleaning and modeling to dashboard design and storytelling. The main objectives of this project are:
 
-The main objectives of this project were to:
-- Demonstrate my proficiency in using PowerBI for data analysis and visualization, such as importing, transforming, modeling, and visualizing data.
-- Apply data analysis and visualization techniques to provide actionable insights and recommendations for improving sales performance.
-- Showcase my creativity and communication skills in designing a clear and compelling dashboard that tells a data-driven story.
+- To exhibit my skills in using PowerBI for complex data analysis and visualization tasks
+- To provide insights and recommendations for improving sales performance based on the survey data
+- To communicate the data stories in a creative and engaging way
 
-### Tasks
-- ✅ Task 1 - Data Preparation
-- ✅ Task 2 - Data Modeling
-- ✅ Task 3 - Data Analysis and Visualization
-- ✅ Task 4 - Dashboard Presentation and Storytelling
+## Project Tasks
+- **Task 1 - Data Preparation**: The raw survey data was cleaned and prepared for analysis, ensuring accuracy and consistency. The data was imported into PowerBI and transformed into a suitable format for further analysis.
+- **Task 2 - Data Modeling**: Various models were built to structure the complex survey data effectively, ensuring it’s ready for detailed analysis.
+- **Task 3 - Data Analysis & Visualization**: PowerBI’s robust features were used to analyze the data deeply and visualize the findings using charts, tables, maps, and other elements. The visualizations highlight the key insights and patterns in the data, such as the country of origin, favorite programming language, average salary, and satisfaction level of the data professionals.
+- **Task 4 - Dashboard Presentation & Storytelling**: The visualizations were integrated into an interactive dashboard that provides a comprehensive view of the data professionals employability. The dashboard is designed to ensure a user-friendly experience and effective communication. The dashboard also features a story mode that guides the user through the main insights and recommendations derived from the data.
 
-### Tools and Visualization
-- ⚙️ Tool: PowerBI
-- 💻 Visualization: PowerBI (Charts, tables, maps, etc.)
-- 🗂️ Source Dataset: Retail Sales Data
+## Tools & Visualization Techniques Used
+⚙️**Tool Used**: PowerBI  
+💻**Visualization Techniques**: Incorporation of charts, tables, maps, and other elements to make data interpretation intuitive.  
+🗂️**Source Dataset**: Survey taken by 630 data professionals.
 
-[Click to view full documentation]
+The project is available on GitHub at [link to the repository](https://github.com/SteveJoe-cloud/data-prof.-survey-insights). 
+
+I hope this helps. If you have any feedback or questions, please let me know. 😊
+
 
 ## Completed Course and Certification 🗂️
 - [Certificate in Advanced Python, StudySection](https://www.studysection.com/verify-certificate-authenticity?url=verify-certificate-authenticity) (test ID: 650060, email ID: joeklaet@gmail.com)
