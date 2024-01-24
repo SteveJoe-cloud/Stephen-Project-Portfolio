@@ -98,7 +98,7 @@ This project demonstrates the use of PowerBI in creating a captivating dashboard
 💻**Visualization Techniques**: Incorporation of charts, tables, maps, and other elements to make data interpretation intuitive.  
 🗂️**Source Dataset**: Survey taken by 630 data professionals.
 
-The project is available on GitHub at [link to the repository](https://github.com/SteveJoe-cloud/data-prof.-survey-insights). 
+[Click to view full documentation](https://github.com/SteveJoe-cloud/data-prof.-survey-insights). 
 
 I hope this helps. If you have any feedback or questions, please let me know. 😊
 
