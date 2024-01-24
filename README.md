@@ -76,7 +76,7 @@ In this project, I utilized Tableau to develop a comprehensive visualization of 
 💻 **Visualization**: Interactive Dashboard with filters, line charts, bar graphs, maps etc.  
 🗂️ **Source Dataset**: Seattle House Sales Data  
 
-[Click here]
+[Click here to view full documentation](https://github.com/SteveJoe-cloud/Housing-Project-Tableau/)
 
 ## PowerBI Project
 **Individual | PowerBI**
