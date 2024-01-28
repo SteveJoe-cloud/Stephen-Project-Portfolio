@@ -1,4 +1,4 @@
-# Stephen's Project Portfolio
+# Stephen's Projects Portfolio
 
 Hi there! This documentation provides a concise overview of my expertise and capabilities in the field of data, showcasing my skills and knowledge in this domain.
 
