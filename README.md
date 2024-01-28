@@ -54,7 +54,7 @@ The data source for this project was a public dataset of COVID-19 cases in Kenya
 
 
 [Click to view full documentation]
-Based on the attached image, I understand that you are requesting a project description for a house sales visualization project you did for Seattle on Tableau. Here is a sample format for your project description:
+
 
 # House Sales Visualization
 
