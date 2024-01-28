@@ -53,7 +53,7 @@ The data source for this project was a public dataset of COVID-19 cases in Kenya
 - 🗂️ Data Source: MoH-Kenya (Open-Source)
 
 
-[Click to view full documentation]
+[Click to view full documentation](https://github.com/SteveJoe-cloud/Kenya-Covid-19-Case-Study)
 
 
 # House Sales Visualization
